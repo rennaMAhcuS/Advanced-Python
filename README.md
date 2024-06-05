@@ -1,0 +1,3 @@
+# Advanced-Python
+All the 'advanced' python topics I am going to learn...
+
