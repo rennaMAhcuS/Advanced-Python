@@ -18,7 +18,7 @@ np.random.rand(2, 3)  # 2x3 matrix in [0,1)
 np.random.randn(2, 3)  # 2x3 matrix from the standard normal distribution
 ```
 
-- **`randint(low[, high, size, dtype])`**:
+- **`randint(low, high, size, dtype)`**:
   Return random integers from `low` (inclusive) to `high` (exclusive).
 
 ```python
