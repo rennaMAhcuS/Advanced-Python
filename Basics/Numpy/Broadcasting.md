@@ -47,5 +47,7 @@ Output:
 
 Broadcasting is a cornerstone of efficient array operations and is widely used in data science, machine learning, and any field that requires extensive numerical computation. Understanding and using broadcasting can lead to more efficient and cleaner code.
 
+<!--
 ## References
 Read the Advanced Python from the CS108 Folder.
+-->
