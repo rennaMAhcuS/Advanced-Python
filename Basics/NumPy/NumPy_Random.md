@@ -1,6 +1,6 @@
 NumPy's `np.random` module contains a suite of functions that are used for generating random numbers and performing
 random operations, which are essential for tasks such as simulations, testing, and data sampling. Below is an overview
-of the most commonly used functions within the `np.random` module:
+of the **most commonly used functions** within the `np.random` module:
 
 ### 1. Random Sampling
 
