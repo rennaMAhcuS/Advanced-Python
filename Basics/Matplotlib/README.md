@@ -1,4 +1,6 @@
-# `np.meshgrid` for 3D Plots in Matplotlib
+# Matplotlib
+
+## `np.meshgrid` for 3D Plots in Matplotlib
 
 `np.meshgrid` is a function provided by NumPy, a fundamental package for scientific computing in Python. It is used to create a rectangular grid out of two given one-dimensional arrays representing the Cartesian indexing or Matrix indexing. `np.meshgrid` is particularly useful in 3D plotting, data analysis, and graphical visualization where operations are performed on a grid or mesh of points.
 

@@ -1,4 +1,4 @@
-# Pandas Tutorial - KeithGalli
+# Pandas in Markdown format:
 
 ## Intro to Dataframes
 
@@ -380,7 +380,7 @@ bios = pd.read_csv('./data/bios.csv')
 
 
 ```python
-## To read an excel spreadsheet
+## To read an Excel spreadsheet
 olympics_data = pd.read_excel('./data/olympics-data.xlsx', sheet_name="results")
 ```
 
@@ -2351,7 +2351,7 @@ bios.loc[bios["height_cm"] > 215, ["name", "height_cm"]]
 
 
 
-#### Short-hand syntax (without .loc)
+#### Shorthand syntax (without .loc)
 
 
 ```python
